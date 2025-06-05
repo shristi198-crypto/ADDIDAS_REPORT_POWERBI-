@@ -59,7 +59,8 @@ This dashboard provides an in-depth analysis of:
 
 ## 📈 Dashboard Preview
 
-> *(Insert a screenshot of your dashboard here if possible)*
+![addidas_ds](https://github.com/user-attachments/assets/6c88f1d2-a943-4ffc-968d-61dcf2ec631b)
+
 
 ---
 
